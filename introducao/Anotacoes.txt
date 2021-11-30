@@ -1,0 +1,7 @@
+Arquivo utilizado para anotações gerais
+
+Links e particularidades do projeto
+
+https://www.markdownguide.org/getting-started/
+
+https://www.java.com/pt-BR/
